@@ -15,8 +15,8 @@ import sys
 # ════════════════════════════════════════════════
 
 # ─── TELEGRAM CONFIG ───
-TELEGRAM_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN_HERE"
-TELEGRAM_CHAT_ID = "-1001234567890"  # Private group ka chat ID
+TELEGRAM_TOKEN = "8600185928:AAH1LqnB1Pm-54tlgW91xZMxr0zjeaHuWo0"
+TELEGRAM_CHAT_ID = "-1003999154734"  # Private group ka chat ID
 
 # ─── DISCORD CONFIG ───
 DISCORD_TOKEN = "YOUR_DISCORD_BOT_TOKEN_HERE"
